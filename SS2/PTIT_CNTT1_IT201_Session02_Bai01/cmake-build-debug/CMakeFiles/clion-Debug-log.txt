@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\Admin\Desktop\CTDL&DT\SS2\PTIT_CNTT1_IT201_Session02_Bai01 Select CMakeLists.txt
